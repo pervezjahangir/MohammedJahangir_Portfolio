@@ -36,5 +36,6 @@ Welcome to my professional portfolio. I specialize in enterprise integration usi
 
 ## 📞 Contact
 
-- 📧 Email: [your email]
-- 🔗 LinkedIn: [your LinkedIn URL]
+- 📧 Email: pervezjahangir@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohammed-jahangir-
+490b4a141/
