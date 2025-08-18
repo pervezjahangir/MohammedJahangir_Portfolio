@@ -4,12 +4,15 @@ Welcome to my professional portfolio. I specialize in enterprise integration usi
 
 ## 🔧 Skills
 
-- **Integration Platforms**: TIBCO BW 5.x/6.x, EMS, Adapters
-- **API Development**: SOAP, REST, WSDL/XSD, Service Orchestration
-- **Messaging**: JMS, EMS Queues/Topics, Asynchronous Messaging
-- **Monitoring**: Hawk, HIPMON, Dynatrace, Kibana, Power BI
-- **Deployment**: TIBCO Administrator, Azure DevOps
-- **Workflow**: Agile, Jira, SAFe, ServiceNow
+- **Integration Platforms**   : TIBCO BusinessWorks (5.7, 5.14, 6.3.x/6.6.x, BW CE), TIBCO EMS (8.4, 8.5), TIBCO Adapters (File, SAP)
+- **Architecture & Design**   : SOA (Service-Oriented Architecture), ESB(1.0,2.0), Service Reusability, Loose Coupling
+- **API Development**         : SOAP, REST, WSDL/XSD, Service Orchestration
+- **Messaging**               : JMS, EMS Queues/Topics, Asynchronous Messaging
+- **Data Transformation**     : XML, Flat Files, JSON, XSLT, Data Mapping, Schema Validation
+- **Databases & Querying**    : SQL, JDBC, Stored Procedures
+- **Monitoring**              : Hawk, Tableau, Dynatrace, Kibana, Power BI, HIPMON
+- **Deployment**              : TIBCO Administrator, Azure DevOps, Shell Automation
+- **Workflow**                : Agile, Jira, SAFe, ServiceNow
 
 ## 🧩 Project Highlights
 
@@ -19,9 +22,11 @@ Welcome to my professional portfolio. I specialize in enterprise integration usi
 - Integrated Hawk and Kibana for proactive monitoring
 
 ### Infosys – L'Oréal Japan (Oct 2021 – Aug 2023)
-- Delivered ESB 2.0 integrations with CRM and Shopee
-- Led orchestration using accumulator and conditional routing
-- Implemented HIPMON alerts and CI/CD pipelines
+- Built ESB 2.0 integrations using TIBCO BW 6.x and HIPMON for CRM, MARS, and Shopee across Japan
+- Orchestrated API services with accumulator logic, conditional routing, and iterative processing
+- Engineered robust error handling with HIPMON dashboards and custom RCA alerts
+- Delivered CI/CD pipelines via Azure DevOps; managed multi-env deployments with Admin 6.x
+- Led SIT/UAT support and defect triage, ensuring SLA compliance and production stability
 
 ### HCL – Schlumberger (Sep 2018 – Oct 2021)
 - Developed BW 5.x flows for SOAP/JMS/file triggers
