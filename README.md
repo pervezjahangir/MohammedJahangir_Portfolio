@@ -26,7 +26,7 @@ Welcome to my professional portfolio. I specialize in enterprise integration usi
 - Built JMS flows with dynamic routing and error handling
 - Integrated Hawk and Kibana for proactive monitoring
 
-### Infosys – Reliance Jio Japan (Oct 2021 – Aug 2023)
+### Infosys – Reliance Jio (Oct 2021 – Aug 2023)
 - Built ESB 2.0 integrations using TIBCO BW 6.x and HIPMON for CRM, MARS, and Shopee across Japan
 - Orchestrated API services with accumulator logic, conditional routing, and iterative processing
 - Engineered robust error handling with HIPMON dashboards and custom RCA alerts
